@@ -55,3 +55,7 @@ function ballclick(){
         console.log('You Own');
     }
 }
+
+function stump(){
+    document.querySelector('#result').textContent='Select The Correct One';
+}
